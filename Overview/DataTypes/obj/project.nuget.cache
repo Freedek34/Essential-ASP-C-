@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNRR3x68nh49OLWCfuTYJRsuzw058Wg3Zrl1c/71Wt4qUkCn9lKgMT1RWK10nvVBa98by9ahcWV3utVFf7GotQ==",
+  "success": true,
+  "projectFilePath": "/Users/clinton/Downloads/Start/Overview/DataTypes/DataTypes.csproj",
+  "expectedPackageFiles": [
+    "/Users/clinton/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/clinton/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/clinton/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
