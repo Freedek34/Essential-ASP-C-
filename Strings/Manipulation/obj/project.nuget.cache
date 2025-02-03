@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5/uYfewiEeJQMnypnYG5gry8qgH5f2DQF8RNsgAqouo4XMcIuP6wDv+2ExfotciWra6dDQuz+bAe0ZQVuelvw==",
+  "success": true,
+  "projectFilePath": "/Users/clinton/Downloads/Start/Strings/Manipulation/Manipulation.csproj",
+  "expectedPackageFiles": [
+    "/Users/clinton/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/clinton/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/clinton/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation
+/Users/clinton/Downloads/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.deps.json
+/Users/clinton/Downloads/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.runtimeconfig.json
+/Users/clinton/Downloads/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.dll
+/Users/clinton/Downloads/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.pdb
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.dll
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/refint/Manipulation.dll
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.pdb
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/Strings/Manipulation/obj/Debug/net6.0/ref/Manipulation.dll
