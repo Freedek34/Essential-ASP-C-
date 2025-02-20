@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.deps.json
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.runtimeconfig.json
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.dll
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.pdb
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.dll
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/refint/ReadWriteFiles.dll
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.pdb
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ref/ReadWriteFiles.dll

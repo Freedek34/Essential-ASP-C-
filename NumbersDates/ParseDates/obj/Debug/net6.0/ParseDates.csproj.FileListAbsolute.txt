@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.deps.json
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.runtimeconfig.json
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.dll
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.pdb
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.dll
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/refint/ParseDates.dll
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.pdb
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/NumbersDates/ParseDates/obj/Debug/net6.0/ref/ParseDates.dll

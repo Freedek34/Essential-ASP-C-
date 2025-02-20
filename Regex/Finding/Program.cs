@@ -1,23 +1,44 @@
-﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
-// Example file for using Regex to find patterns
+﻿using System;
 using System.Text.RegularExpressions;
 
-string teststr1 = "The quick brown Fox jumps over the lazy Dog";
-string teststr2 = "the quick brown fox jumps over the lazy dog";
+class Program
+{
+    static void Main()
+    {
+        string teststr1 = "The quick brown Fox jumps over the lazy Dog";
+        string teststr2 = "the quick brown fox jumps over the lazy dog";
 
-// TODO: The IsMatch function is used to determine if the content of a string
-// results in a match with the given Regex
+        // The IsMatch function is used to determine if the content of a string
+        // results in a match with the given Regex
+        Regex CapWords = new Regex(@"[A-Z]\w+");
 
+        Console.WriteLine("Checking teststr1:");
+        Console.WriteLine(CapWords.IsMatch(teststr1)); // True (matches "The", "Fox", "Dog")
+        
+        Console.WriteLine("Checking teststr2:");
+        Console.WriteLine(CapWords.IsMatch(teststr2)); // False (no capitalized words)
 
-// TODO: The RegexOptions argument can be used to perform
-// case-insensitive searches
+        // The RegexOptions argument can be used to perform case-insensitive searches
+        Regex NoCase = new Regex(@"fox", RegexOptions.IgnoreCase);
+        Console.WriteLine("\nCase-insensitive match for 'fox':");
+        Console.WriteLine(NoCase.IsMatch(teststr1)); // True
 
+        // Use the Match and Matches methods to get information about specific Regex matches
+        Console.WriteLine("\nUsing Match:");
+        Match m = CapWords.Match(teststr1);
+        while (m.Success)
+        {
+            Console.WriteLine($"'{m.Value}' found at position {m.Index}");
+            m = m.NextMatch();
+        }
 
-// Use the Match and Matches methods to get information about
-// specific Regex matches for a given pattern
-
-// TODO: The Match method returns a single match at a time
-
-
-// TODO: The Matches method returns a collection of Match objects
-
+        // The Matches method returns a collection of Match objects
+        Console.WriteLine("\nUsing Matches:");
+        MatchCollection mc = CapWords.Matches(teststr1);
+        Console.WriteLine($"Found {mc.Count} matches:");
+        foreach (Match match in mc)
+        {
+            Console.WriteLine($"'{match.Value}' found at position {match.Index}");
+        }
+    }
+}

@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/Regex/Replacing/bin/Debug/net6.0/Replacing
+/Users/clinton/Downloads/Start/Regex/Replacing/bin/Debug/net6.0/Replacing.deps.json
+/Users/clinton/Downloads/Start/Regex/Replacing/bin/Debug/net6.0/Replacing.runtimeconfig.json
+/Users/clinton/Downloads/Start/Regex/Replacing/bin/Debug/net6.0/Replacing.dll
+/Users/clinton/Downloads/Start/Regex/Replacing/bin/Debug/net6.0/Replacing.pdb
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.dll
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/refint/Replacing.dll
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.pdb
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/Replacing.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/Regex/Replacing/obj/Debug/net6.0/ref/Replacing.dll

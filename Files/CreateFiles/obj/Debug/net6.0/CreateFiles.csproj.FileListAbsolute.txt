@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles
+/Users/clinton/Downloads/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.deps.json
+/Users/clinton/Downloads/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.runtimeconfig.json
+/Users/clinton/Downloads/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.dll
+/Users/clinton/Downloads/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.pdb
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.dll
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/refint/CreateFiles.dll
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.pdb
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/Files/CreateFiles/obj/Debug/net6.0/ref/CreateFiles.dll

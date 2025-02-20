@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts
+/Users/clinton/Downloads/Start/Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.deps.json
+/Users/clinton/Downloads/Start/Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.runtimeconfig.json
+/Users/clinton/Downloads/Start/Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.dll
+/Users/clinton/Downloads/Start/Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.pdb
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.dll
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/refint/RegexTimeouts.dll
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.pdb
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/Regex/Timeouts/obj/Debug/net6.0/ref/RegexTimeouts.dll

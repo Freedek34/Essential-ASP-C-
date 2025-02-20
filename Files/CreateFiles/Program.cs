@@ -1,10 +1,40 @@
-﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
-// Creating and Deleting Files
+﻿using System;
+using System.IO;
 
-const string filename = "TestFile.txt";
+class Program
+{
+    static void Main()
+    {
+        const string filename = "TestFile.txt";
 
-// TODO: Create a new file - this will overwrite any existing file
-// Use the "using" construct to automatically close the file stream
+        // Creating a new file - this will overwrite any existing file
+        // Use the "using" construct to automatically close the file stream
+        using (StreamWriter sw = File.CreateText(filename))
+        {
+            sw.WriteLine("This is a text file.");
+        }
 
+        Console.WriteLine("File created successfully.");
 
-// TODO: Determine if a file exists
+        // Determine if the file exists
+        Console.WriteLine(File.Exists(filename));
+
+        if (File.Exists(filename))
+        {
+            // The delete function deletes the file
+            File.Delete(filename);
+            Console.WriteLine("File deleted.");
+        }
+        else
+        {
+            using (StreamWriter sw = File.CreateText(filename))
+            {
+                sw.WriteLine("This is a text file.");
+            }
+            Console.WriteLine("File recreated.");
+        }
+
+        Console.WriteLine(File.Exists(filename));
+    }
+}
+

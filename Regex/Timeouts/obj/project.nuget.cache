@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Wcn7Lwh0fRh8rh1n5bu9xtkQt52n7JGT0DwsRl7bI7HPhM1I7uTDMjUTRQnZu90C9+/uxRVSumVpNIWRAxgVQ==",
+  "success": true,
+  "projectFilePath": "/Users/clinton/Downloads/Start/Regex/Timeouts/RegexTimeouts.csproj",
+  "expectedPackageFiles": [
+    "/Users/clinton/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/clinton/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/clinton/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

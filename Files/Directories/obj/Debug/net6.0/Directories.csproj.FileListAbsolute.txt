@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/Files/Directories/bin/Debug/net6.0/Directories
+/Users/clinton/Downloads/Start/Files/Directories/bin/Debug/net6.0/Directories.deps.json
+/Users/clinton/Downloads/Start/Files/Directories/bin/Debug/net6.0/Directories.runtimeconfig.json
+/Users/clinton/Downloads/Start/Files/Directories/bin/Debug/net6.0/Directories.dll
+/Users/clinton/Downloads/Start/Files/Directories/bin/Debug/net6.0/Directories.pdb
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.dll
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/refint/Directories.dll
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.pdb
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/Directories.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/Files/Directories/obj/Debug/net6.0/ref/Directories.dll

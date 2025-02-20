@@ -1,0 +1,15 @@
+/Users/clinton/Downloads/Start/Strings/Searching/bin/Debug/net6.0/Searching
+/Users/clinton/Downloads/Start/Strings/Searching/bin/Debug/net6.0/Searching.deps.json
+/Users/clinton/Downloads/Start/Strings/Searching/bin/Debug/net6.0/Searching.runtimeconfig.json
+/Users/clinton/Downloads/Start/Strings/Searching/bin/Debug/net6.0/Searching.dll
+/Users/clinton/Downloads/Start/Strings/Searching/bin/Debug/net6.0/Searching.pdb
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.csproj.AssemblyReference.cache
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.AssemblyInfoInputs.cache
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.AssemblyInfo.cs
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.csproj.CoreCompileInputs.cache
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.dll
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/refint/Searching.dll
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.pdb
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/Searching.genruntimeconfig.cache
+/Users/clinton/Downloads/Start/Strings/Searching/obj/Debug/net6.0/ref/Searching.dll

@@ -1,0 +1,3 @@
+This is a text file. 300 LVL Second semester courseLine 1
+Line 2
+Line 3
